@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anaya</h1>
-<h3 align="center">A dual degree student in Math & Engineering</h3>
+# Hi, I'm Anaya!
+### A dual degree student in Math & Engineering
 
 ---
 
@@ -9,11 +9,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Connect with me:
 <a href="https://www.linkedin.com/in/anayasharma9/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-</p>
-
----
