@@ -17,8 +17,3 @@
 </p>
 
 ---
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaya-rs&show_icons=true&theme=default" alt="Anaya's GitHub stats" />
-</p>
